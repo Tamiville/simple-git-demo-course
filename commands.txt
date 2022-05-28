@@ -1,0 +1,37 @@
+///////////////***************///////////////
+commands we have learnt so far on git
+
+** ## git branch
+** ## git init
+** ## git status
+** ## git add
+
+** ## git commit
+** ## git clone
+** ## git stash
+** ## git remote -v
+
+** ## git tag <tag version>
+** ## git ls-files
+** ## git rm --cached <filename>
+** ## git log
+
+** ## git push
+** ## git pull
+** ## git set --upstream <branch>
+** ## git reset head
+
+** ## git log --oneline
+** ## git diff
+** ## git restore --cached <filename>
+** ## git stash pop
+
+** ## git merge
+** ## git fetch origin <branch name>
+** ## git show
+** ## git commit --amend -m"your message"
+
+** ## git branch
+** ## git branch --all
+** ## git add . or git add -A
+** ## git stash apply / git stash list
